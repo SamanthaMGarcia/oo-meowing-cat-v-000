@@ -3,8 +3,8 @@ class Cat
 
 end
 
-maru.meow
-puts
+maru = Cat.new 
+
 
 
 
