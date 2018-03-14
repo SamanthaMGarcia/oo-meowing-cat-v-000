@@ -3,5 +3,6 @@ class Cat
 
 end
 
-maru.
+maru = Cat.new
+
 
