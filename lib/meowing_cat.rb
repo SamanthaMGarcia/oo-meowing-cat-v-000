@@ -5,9 +5,6 @@ end
 
 maru = Cat.new 
 
-maru.meow
-puts
-"Meow"
 
 
 
