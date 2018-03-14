@@ -5,6 +5,7 @@ end
 
 maru = Cat.new 
 
+maru.meow
 
 
 
